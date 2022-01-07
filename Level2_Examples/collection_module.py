@@ -1,6 +1,6 @@
 import collections
 
-1
+#1
 
 text = '''Phika - Python is an interpreted
 		  high-level programming language
